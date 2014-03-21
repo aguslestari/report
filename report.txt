@@ -1,9 +1,24 @@
-Senin : test
-- nambah server
--
--
+----------------------
+Report 21 Maret 2014 :
+----------------------
 
-Selasa :
--asdfasdfasd
+Agus Lestari :
+--------------
+- ubah jadwal record reportase sore (sesuai request yusuf-detiktv)
+- clear memory di server detik-search2 karena saat mas Among mau ngejalain 1 node lagi tidak bisa, cache nya sempat 11Gb.
+- create vhost qa.detik.com diserver monit-apps + auto ssh dari devel ke monit-apps + ubah php nya ke php-fpm + rsync dari devel /data/project/libraries/* ke server monit-apps (request Bern)
+- redirect http://jejakpetualang.detik.travel/ ke http://travel.detik.com/jejak-petualang (sesuai request Iie)
+- ubah jadwal record reposrtase pagi (sesuai request detiktv)
+- install nagios client di server cms-broadcast dan message-brokers
+- restart service rabbitmq diserver message-brokers karena sempat mati
+- install + setting rabbitmq server diserver 203.190.243.104 (sesuai request Michele)
+- setting untuk domain http://microsite.detik.com/buktiinaja/ diserver temporary (sesuai request GLN)
+- pasang crontab untuk update date diserver monit-apps, monit-crontab dan monit-showslow
+- restart service nginx dan php di server comment dan new-comment terkait isue comment lama yang sempat ga bisa connect ke db
+
+
+Nugroho:
+--------
+- 
 -
 -
