@@ -1,0 +1,15 @@
+Report Mingguan 28 Maret 2014
+
+Agus Lestari :
+- check forum.detik.com karena ada laporan tidak bisa di akses dari luar, setelah test menggunakan proxy singapore ternyata bisa,
+- check openx karena dibuka dari luar kantor error 404, ternyata ada isue di error_page sudah di edit Rizki Nanda
+- request restart server debian-urchin ke support IDC karena servernya stuck
+- kill process java diserver search-news-foto (request personal Mas Among)
+
+
+
+Nugroho :
+-
+-
+-
+
