@@ -5,7 +5,19 @@ Agus Lestari :
 - check openx karena dibuka dari luar kantor error 404, ternyata ada isue di error_page sudah di edit Rizki Nanda
 - request restart server debian-urchin ke support IDC karena servernya stuck
 - kill process java diserver search-news-foto (request personal Mas Among)
-
+- upload file index.html ke server microsite sesuai request Gerry
+- install libfaac diserver streamserver17 (request personal Iskandar Rizki)
+- upload file index.html ke server microsite sesuai request Pandhu wiguna
+- update redis server di server redis-server1 dan redis-server2 dari redis-2.4.15 menjadi redis-2.8.7
+- ke IDC untuk ganti part (ram) diserver xen-static-images2 
+- setting vhost http://video.cnnindonesia.com/ diserver devel + proxy (request personal Bern)
+- ke IDC untuk ganti fan server Blade Rak 149 + check server dbinsosys karena tidak bisa diremote (firewall on, sudah di - - off kan dan sudah dikasih tau ke febry)
+- install php-fpm diserver media.detik.com (sesuai request Iskandar Rizki)
+- bersih2 log detiktv (admintv)
+- setting server xen-server-static4 untuk static_images13 - static_images16
+- merpihkan nagios + menambahkan settingan nagios untuk static_images9 - static_images16 dan rename untuk host xen-servernya.
+- setting ssl untuk devel forum.detik.com (server comm-dev)
+- install ulang static-images2 untuk dijadikan xen-static-images3 (untuk pengganti server yang dipinjam dari rizki yang peruntukan git server)
 
 
 Nugroho :
