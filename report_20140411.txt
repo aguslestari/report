@@ -1,0 +1,11 @@
+Report 11 April 2014 :
+
+AGUS LESTARI :
+- ubah jadwal record Reportase Sore (TransTV) dan Redaksi Sore (Trans7) sesuai email request M. Rasyid Ridla
+- ubah header nginx untuk newopenx diserver beta detikfamily (request Edi)
+- install redis server dan python2.7 diserver iphone untuk kebutuhan development server api cnn mobile apps (request michele/andri)
+- bantuin nugroho setting domain mobcontent diserver devel
+- install virtual online (203.190.243.110) di xen-storage untuk keperluan pengganti online.detik.com + setting nginx dan php
+- bersih2 comment log /opt/nginx/logs/error.log dan access.log + apps-blogdetik /opt/php/var/log/
+- cek rsync server beta (id24) dari server ads-dev, proses rsync belum dimasukkan ke crontab, saat ini sudah dimasukkan per 5 menit (sesuai email edi)
+
