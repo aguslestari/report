@@ -1,0 +1,12 @@
+Agus Lestari :
+
+- install module php pnctl diserver devel untuk php5.5 (sesuai request Ari)
+- redirect  domain pialadunia.com ke sport.detik.com/pialadunia2014 (sesuai email Iqbal)
+- install python27 diserver Replica-MongoDB dan message-brokers include module ISO, request dan twisted (sesuai email Syaiful)
+- ubah jadwal record reportase sore travstv (sesuai email Yusuf)
+- setting vhost untuk domain fem.detik.com diserver emagazine (sesuai email Minggo)
+- checking wp detiktv karena ada laporan tampilannya tidak berubah, sementara generator static nya dipindah dari id9 ke jkt1 (sesuai email Minggo)
+- ke IDC nemenin Febry cek server insosys master, karena ngga bisa diremote (expired setelah 120hari)
+- create crontab untuk hapus /tmp/cekanalytic.log diserver neojahex 
+- edit vhost fem.detik.com untuk menutup akses fem.detik.com dan diredirect ke detik.com, tapi untuk download pdf nya tetap bisa mengakses fem.detik.com (request ditto)
+
